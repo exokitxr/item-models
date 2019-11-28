@@ -1740,7 +1740,6 @@ export default JSON.parse(`[
   "samurai/SM_Wep_Tanto_01.fbx",
   "samurai/SM_Wep_Tanto_Covered_01.fbx",
   "samurai/SM_Wep_Tonfa_01.fbx",
-  "scifi/Characters.fbx",
   "scifi/Flame_Mesh.fbx",
   "scifi/FX_Circle.fbx",
   "scifi/FX_Plane_Simple.fbx",
