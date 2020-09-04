@@ -1,0 +1,687 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 303,
+      "max": [
+        8.6871280670166016,
+        0.50608533620834351,
+        -1.4198538064956665
+      ],
+      "min": [
+        7.6450557708740234,
+        -0.10299454629421234,
+        -2.5452268123626709
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3636,
+      "componentType": 5126,
+      "count": 303,
+      "max": [
+        1,
+        0.99993395805358887,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99994957447052002,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 303,
+      "max": [
+        1,
+        0.99999731779098511,
+        0.99844533205032349,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99999970197677612,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 303,
+      "max": [
+        0.99416297674179077,
+        0.77505910396575928
+      ],
+      "min": [
+        0.0089513156563043594,
+        0.0080355461686849594
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 678,
+      "max": [
+        302
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7272,
+      "componentType": 5126,
+      "count": 3641,
+      "max": [
+        46.046939849853516,
+        3.0000002384185791,
+        35.5
+      ],
+      "min": [
+        43,
+        0.049999993294477463,
+        29.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 50964,
+      "componentType": 5126,
+      "count": 3641,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 4848,
+      "componentType": 5126,
+      "count": 3641,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2424,
+      "componentType": 5126,
+      "count": 3641,
+      "max": [
+        0.99729752540588379,
+        0.99523383378982544
+      ],
+      "min": [
+        0.0021022723522037268,
+        0.0021271917503327131
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2712,
+      "componentType": 5125,
+      "count": 9285,
+      "max": [
+        3640
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 94656,
+      "componentType": 5126,
+      "count": 11683,
+      "max": [
+        3.7991809844970703,
+        8.4459600448608398,
+        0.60000002384185791
+      ],
+      "min": [
+        -22.284631729125977,
+        -2.0953483581542969,
+        -113.1884765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 234852,
+      "componentType": 5126,
+      "count": 11683,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 63104,
+      "componentType": 5126,
+      "count": 11683,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31552,
+      "componentType": 5126,
+      "count": 11683,
+      "max": [
+        0.7489507794380188,
+        0.99714809656143188
+      ],
+      "min": [
+        0.00039833728806115687,
+        0.00055491534294560552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 39852,
+      "componentType": 5125,
+      "count": 36663,
+      "max": [
+        11682
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 375048,
+      "componentType": 5126,
+      "count": 51243,
+      "max": [
+        49,
+        9.2500009536743164,
+        120.18000030517578
+      ],
+      "min": [
+        -61.900001525878906,
+        -0.50000041723251343,
+        -105.51155853271484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 989964,
+      "componentType": 5126,
+      "count": 51243,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 250032,
+      "componentType": 5126,
+      "count": 51243,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 125016,
+      "componentType": 5126,
+      "count": 51243,
+      "max": [
+        0.997802734375,
+        0.992919921875
+      ],
+      "min": [
+        0.001953124301508069,
+        0.001953125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 186504,
+      "componentType": 5125,
+      "count": 108984,
+      "max": [
+        51242
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Justwo (https://sketchfab.com/Justwo)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/models/cadae54b82e34e1cab52f03e28de6af5",
+      "title": "SurrounDead - Survival Game Assets"
+    },
+    "generator": "Sketchfab-3.27.6",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 622440,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 534960,
+      "byteOffset": 622440,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1604880,
+      "byteOffset": 1157400,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1069920,
+      "byteOffset": 2762280,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3832200,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/MeshBaker-ModularParts_baseColor.png"
+    },
+    {
+      "uri": "textures/MeshBaker-FencesBarricadesTrees_baseColor.png"
+    },
+    {
+      "uri": "textures/MeshBaker-Lights_baseColor.png"
+    },
+    {
+      "uri": "textures/MeshBaker-Lights_emissive.png"
+    },
+    {
+      "uri": "textures/MeshBaker-Weapons_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "MeshBaker-Weapons",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "alphaCutoff": 0.2435010034,
+      "alphaMode": "MASK",
+      "doubleSided": false,
+      "emissiveFactor": [
+        1,
+        1,
+        1
+      ],
+      "emissiveTexture": {
+        "index": 3,
+        "texCoord": 0
+      },
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "MeshBaker-Lights",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 2,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "alphaCutoff": 0.43218024869999999,
+      "alphaMode": "MASK",
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "MeshBaker-FencesBarricadesTrees",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "MeshBaker-ModularParts",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        2.2204460492503131e-16,
+        1,
+        0,
+        0,
+        -1,
+        2.2204460492503131e-16,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "MeshBaker-Weapons_0"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "MeshBaker-Lights_1"
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "MeshBaker-FencesBarricadesTrees_2"
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "MeshBaker-ModularParts_3"
+    },
+    {
+      "mesh": 3,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}
+
